@@ -1,0 +1,47 @@
+.imagem{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    
+}
+a{
+    background-color: rgb(37, 134, 37);
+    color: white;
+    font-family: Verdana;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: blue;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(15, 134, 94);
+    color: white;
+    font-size: 30px;
+    font-family: verdana;
+}
+.meu-paragrafo{
+    text-indent: 4%;
+    font-family: verdana;
+    text-align: justify;
+}
+h3{
+    color: rgb(15, 134, 94);
+    font-size: 25px;
+    font-family: verdana;
+    border-bottom: 2px solid black;
+}
+.centro{
+    text-align: center;
+}
+.meu-li{
+    text-indent: 4%;
+    font-family: verdana;
+    text-align: justify;
+    list-style-type: none;
+}
